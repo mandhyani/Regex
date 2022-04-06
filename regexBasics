@@ -1,0 +1,8 @@
+Regular Expressions.
+
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+0123456789
+
+Metacharacters .[{()\^$|?*+
