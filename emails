@@ -7,3 +7,11 @@ corey-321-schafer@my-work.net
 \w*-\w*-\w*@\w*-\w*\.net
 
 [a-zA-Z.0-9-]+@[a-zA-Z-]+\.(com|edu|net)
+
+
+https://www.google.com
+http://coreyms.com
+https://youtube.com
+https://www.nasa.gov
+
+replace $2$3
