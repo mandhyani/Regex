@@ -1,22 +1,19 @@
-Regular Expressions.
-
-abcdefghijklmnopqrstuvwxyz
+abcdefghijklmnopqurtuvwxyz
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
-
-0123456789
+1234567890
 
 Ha HaHa
 
-Metacharacters (need to be escaped):
+MetaCharacters (Need to be escaped):
 .[{()\^$|?*+
 
+coreyms.com
+
 321-555-4321
+123.555.1234
 
-123.555.0123
-
-Mr. Sharma
-
-Mr Rahul
-Ms Preeti
-Mrs. Singh
-Mr. K
+Mr. Schafer
+Mr Smith
+Ms Davis
+Mrs. Robinson
+Mr. T
